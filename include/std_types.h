@@ -1,8 +1,8 @@
 /*
-    File: std_types.h
-    Date: 14/07/2022
-    Author: Ahmed Sheaira
-    Version: 1
+    File    : std_types.h
+    Date    : 14/07/2022
+    Author  : Ahmed Sheaira
+    Version : 1
 */
 
 #ifndef STD_TYPES_H_
